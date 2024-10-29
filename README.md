@@ -16,5 +16,7 @@ The features implemented:
 
 -dropdown box filled with the list of games
 
+Used MVC architecture,Getx state management.
+
 ![image](https://github.com/user-attachments/assets/fa71dee2-e22c-4c14-8d33-2fe1a4cb3cd9)
 
